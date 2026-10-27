@@ -1,0 +1,12 @@
+# vim: set filetype=game:
+# game: this repository
+#
+# name says which project this is. your game config,
+# ~/.config/game/config, has a block for it that says where its road and
+# dist are. this file never names a remote; with no block, game builds
+# here and pushes nowhere.
+#
+# the bookshelf is prose: the rules the teams here build by. there is no
+# go in it, so there is nothing to build or test; release sweeps it and
+# lays it out as it is.
+name bookshelf
